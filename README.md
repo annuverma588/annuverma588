@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋, I'm Anjali
 
-<!--
-**annuverma588/annuverma588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Full Stack Developer  
+🚀 Passionate about building real-world web applications  
+🌱 Currently learning React, Node.js & exploring AI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 I’m currently working on Full Stack Projects  
+- 🌱 Learning: React.js, Node.js, MongoDB  
+- 💡 Interested in AI-powered applications  
+- 🎯 Goal: Become a skilled Full Stack Developer  
+- 🤝 Open to internships & collaboration  
+
+---
+
+## 🛠️ Tech Stack
+💻 Frontend:  
+- HTML5, CSS3, JavaScript  
+- React.js  
+
+⚙️ Backend:  
+- Node.js  
+- Next.js 
+
+🗄️ Database:  
+- MongoDB  
+
+🔧 Tools:  
+- Git & GitHub  
+- VS Code  
+
+---
+
+## 📂 Projects
+- 🚀 Full Stack Projects (React + Node.js + MongoDB)  
+- 💻 Real-world applications (CRUD, Authentication, APIs)  
+
+---
+
+## 📈 GitHub Stats
+![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 🌐 Connect with Me
+- 💼 LinkedIn: linkedin.com/in/annu-verma-5ba61038a  
+- 💻 GitHub: https://github.com/annuverma588 
+
+---
+
+⭐ "Learning by building and growing every day"
