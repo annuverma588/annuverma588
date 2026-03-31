@@ -45,7 +45,7 @@
 ---
 
 ## 🌐 Connect with Me
-- 💼 LinkedIn: linkedin.com/in/annu-verma-5ba61038a  
+- 💼 LinkedIn:https://www.linkedin.com/in/annu-verma-5ba61038a 
 - 💻 GitHub: https://github.com/annuverma588 
 
 ---
